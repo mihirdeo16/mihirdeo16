@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/mihir-workspace/mihir-workspace/blob/main/icons/python.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/mihir-workspace/mihir-workspace/blob/main/icons/sklearn.svg" alt="scikit_learn" width="40" height="40"/> </a>  
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/mihir-workspace/mihir-workspace/blob/main/icons/scikit.svg" alt="scikit_learn" width="40" height="40"/> </a>  
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/mihir-workspace/mihir-workspace/blob/main/icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/></a> 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://github.com/mihir-workspace/mihir-workspace/blob/main/icons/gcp.svg" alt="gcp" width="40" height="40"/> </a>  <!--
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </
