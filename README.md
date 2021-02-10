@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihir</h1>
 <h3 align="center">A passionate data science enthusiasts from India</h3>
-<h4 align="center">To know about me more visit :point_right: <a href="https://mihir-workspace.github.io/online-cv/" target="blank">Profile/Resume</a> </h4>
+<h4 align="center">To know about me more visit :point_right: <a href="https://mihir-workspace.github.io/portfolio/" target="blank">Profile/Portfolio</a> </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://kaggle.com/rihim421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/rihim421" height="30" width="40" /></a>
