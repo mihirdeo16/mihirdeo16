@@ -17,7 +17,9 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/pytorch.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/scikit.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/pandas.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://huggingface.co//" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/huggingface.svg" alt="huggingface" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/react.svg" alt="reactjs" width="40" height="40"/> </a> 
+<a href="https://huggingface.co/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/huggingface.svg" alt="huggingface" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/react.svg" alt="reactjs" width="40" height="40"/> </a> 
 <!-- <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/></a>  -->
 
 <h4 align="left">Tools & Technologies :</h4>
