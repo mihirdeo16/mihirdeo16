@@ -25,9 +25,8 @@ src="https://img.shields.io/github/followers/mihirdeo16?logo=github&style=for-th
 <a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/pytorch.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/scikit.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/pandas.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://huggingface.co//" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/huggingface.svg" alt="huggingface" width="40" height="40"/> </a> 
-<!-- <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/></a>  --> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/rect.svg" alt="reactjs" width="40" height="40"/> </a> 
+<a href="https://huggingface.co//" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/huggingface.svg" alt="huggingface" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/react.svg" alt="reactjs" width="40" height="40"/> </a> 
+<!-- <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/></a>  -->
 
 
 
@@ -39,10 +38,7 @@ src="https://img.shields.io/github/followers/mihirdeo16?logo=github&style=for-th
 <a href="https://kafka.apache.org/" target="_blank"><img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/kafka.svg" alt="kafka" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/mysql.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/mongodb.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/gcp.svg" alt="gcp" width="40" height="40"/></a>
-
-<a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/tableau.png" alt="tableau" width="40" height="40"/></a>
-<a href="" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/sheet.png" alt="Excel" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/gcp.svg" alt="gcp" width="40" height="40"/></a><a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/tableau.png" alt="tableau" width="40" height="40"/></a><a href="" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/sheet.png" alt="Excel" width="40" height="40"/></a>
 
 <!-- <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> -->
 </p>
