@@ -10,29 +10,13 @@ src="https://img.shields.io/github/followers/mihirdeo16?logo=github&style=for-th
 <p align="center">
 <!-- <a href="https://kaggle.com/rihim421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/rihim421" height="30" width="40" /></a> -->
 
-<a href="https://mihirdeo16.com/#/" target="blank"><img align="center" src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/profile.png" alt="https://mihirdeo16.com/" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/mihirdeo16/" target="blank"><img align="center" src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/linkedin.svg" alt="https://www.linkedin.com/in/mihirdeo16/" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/mihir_deo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mihir_deo" height="30" width="40" /></a>
-
-<a href="https://twitter.com/https://twitter.com/mihirdeo16" target="blank"><img align="center" src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/twitter.svg" alt="https://twitter.com/mihirdeo16" height="30" width="40" /></a>
-
+<a href="https://mihirdeo16.com/#/" target="blank"><img align="center" src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/profile.png" alt="https://mihirdeo16.com/" height="30" width="40" /></a><a href="https://linkedin.com/in/mihirdeo16/" target="blank"><img align="center" src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/linkedin.svg" alt="https://www.linkedin.com/in/mihirdeo16/" height="30" width="40" /></a><a href="https://www.hackerrank.com/mihir_deo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/mihir_deo" height="30" width="40"/></a> <a href="https://twitter.com/https://twitter.com/mihirdeo16" target="blank"><img align="center" src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/twitter.svg" alt="https://twitter.com/mihirdeo16" height="30" width="40" /></a>
 </p>
+
 <h5 align="left">Languages:</h5>
 <!-- Python, R, SQL, JS, Bash, Git, HTML, CSS  -->
 
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/python.svg" alt="python" width="40" height="40"/> </a>
-
-<a href="" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/sql.svg" alt="SQL" width="40" height="40"/> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40"/></a>
-
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/rlang.svg" alt="Rlang" width="40" height="40"/> </a>
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/git.svg" alt="git" width="40" height="40"/></a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/bash.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/python.svg" alt="python" width="40" height="40"/> </a><a href="" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/sql.svg" alt="SQL" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.r-project.org/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/rlang.svg" alt="Rlang" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/git.svg" alt="git" width="40" height="40"/></a><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/bash.svg" alt="bash" width="40" height="40"/> </a>
 <!-- WEB DEV
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/html.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/mihirdeo16/mihirdeo16/blob/main/icons/css.svg" alt="css3" width="40" height="40"/></a> -->
 
