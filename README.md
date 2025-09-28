@@ -32,6 +32,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mihirdeo16&title=Commits,Repositories,Stars,Followers&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mihirdeo16)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
